@@ -7,7 +7,7 @@ Functional connectivity between diﬀerent brain regions was computed using the 
 
 Reza.Saadatyar@outlook.com
 
-![Fig 1](https://user-images.githubusercontent.com/96347878/161370890-c3c76d03-91be-4806-9359-e424398aa022.png)
+![Fig 1](https://user-images.githubusercontent.com/96347878/161371192-09c75ce6-5f1f-46db-83fc-c4cd59a0a405.png)
 
 ![Fig 2](https://user-images.githubusercontent.com/96347878/161370894-6a0719a8-f54a-49f7-a77c-2b6e8089b9a9.png)
 
