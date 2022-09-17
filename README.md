@@ -1,4 +1,5 @@
-# EEG-phase-lag-index-
+**EEG phase lag index**
+
 This repository includes the MATLAB codes for computing phase lag index and power spectrum density.
 
 Electroencephalogram data preprocessing and analysis were performed using the Matlab R2017b software.
