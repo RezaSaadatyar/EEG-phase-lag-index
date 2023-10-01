@@ -6,7 +6,8 @@ Electroencephalogram data preprocessing and analysis were performed using the Ma
 
 Functional connectivity between diﬀerent brain regions was computed using the phase lag index (PLI).
 
-Reza.Saadatyar@outlook.com
+
+Reza.Saadatyar92@gmail.com
 
 ![Fig 1](https://user-images.githubusercontent.com/96347878/161371192-09c75ce6-5f1f-46db-83fc-c4cd59a0a405.png)
 
